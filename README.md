@@ -47,8 +47,8 @@ The MNIST dataset consists of grayscale images of handwritten digits from 0 to 9
 
 ## Repository Structure
 MNIST_Digit_Classification_with_Neural_Network/
-├── mnist_digit_classification.ipynb  
-├── README.md  
+   ├── mnist_digit_classification.ipynb
+   ├── README.md  
 
 ## Learning Outcomes
 - Understanding of neural networks  
@@ -62,3 +62,4 @@ Contributions and improvements are welcome. Feel free to fork the repository and
 ## Author
 Aviral Goyal  
 GitHub: https://github.com/avviiiral
+LinkedIn: https://www.linkedin.com/in/avviiiral
