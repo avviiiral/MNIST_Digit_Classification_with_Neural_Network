@@ -61,5 +61,5 @@ Contributions and improvements are welcome. Feel free to fork the repository and
 
 ## Author
 Aviral Goyal  
-GitHub: https://github.com/avviiiral
+GitHub: https://github.com/avviiiral 
 LinkedIn: https://www.linkedin.com/in/avviiiral
